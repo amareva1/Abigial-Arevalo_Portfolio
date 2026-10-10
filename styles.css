@@ -1,0 +1,17 @@
+/* CSS by Abigail Arevalo */
+/* Color Pallet
+black= #1E2026
+blue= #276BF2
+light-blue= #447EF2
+cyan= #63C9F2
+light-gray= #F2F2F2
+*/
+
+/* GLOBAL STYLES (base) MOBILE FIRST */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #F2F2F2;
+    color: #1E2026;
+    margin: 0;
+    padding: 0;
+}
